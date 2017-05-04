@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#888"
+    tools:context="de.yadrone.android.GestureActivity">
+
+    <TextView
+        android:id="@+id/ges_textView1"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentTop="true"
+        android:layout_marginBottom="0dp"
+        android:gravity="center"
+        android:text="Gesture"
+        android:textColor="#ffffff"
+        android:textSize="30sp" />
+
+    <TextView
+        android:id="@+id/ges_action"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Action"
+        android:textColor="#fff"
+        android:textSize="25sp"
+        android:layout_below="@+id/ges_textView1"
+        android:layout_marginTop="35sp"
+        android:layout_centerHorizontal="true" />
+
+    <TextView
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:text="Help"
+        android:id="@+id/ges_help"
+        android:textColor="#fff"
+        android:layout_below="@+id/ges_textView1"
+        android:layout_marginTop="95sp"
+        android:gravity="center"
+        android:textSize="20sp"/>
+
+</RelativeLayout>

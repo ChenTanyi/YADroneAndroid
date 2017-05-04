@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "D:\\AndroidStudioProjects\\YADrone\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\setting.png",
+        "source": "D:\\AndroidStudioProjects\\YADrone\\app\\src\\main\\res\\drawable\\setting.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\YADrone\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\setting_p.png",
+        "source": "D:\\AndroidStudioProjects\\YADrone\\app\\src\\main\\res\\drawable\\setting_p.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\YADrone\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\main_setting_btn_np.xml",
+        "source": "D:\\AndroidStudioProjects\\YADrone\\app\\src\\main\\res\\drawable\\main_setting_btn_np.xml"
+    }
+]

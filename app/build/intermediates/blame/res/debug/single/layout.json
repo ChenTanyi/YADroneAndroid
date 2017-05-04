@@ -1,0 +1,34 @@
+[
+    {
+        "merged": "D:\\AndroidStudioProjects\\YADrone\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_gravity.xml",
+        "source": "D:\\AndroidStudioProjects\\YADrone\\app\\src\\main\\res\\layout\\activity_gravity.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\YADrone\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_navdata.xml",
+        "source": "D:\\AndroidStudioProjects\\YADrone\\app\\src\\main\\res\\layout\\activity_navdata.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\YADrone\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "D:\\AndroidStudioProjects\\YADrone\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\YADrone\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_video.xml",
+        "source": "D:\\AndroidStudioProjects\\YADrone\\app\\src\\main\\res\\layout\\activity_video.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\YADrone\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_voice.xml",
+        "source": "D:\\AndroidStudioProjects\\YADrone\\app\\src\\main\\res\\layout\\activity_voice.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\YADrone\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abnf_setting.xml",
+        "source": "D:\\AndroidStudioProjects\\YADrone\\app\\src\\main\\res\\layout\\abnf_setting.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\YADrone\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_control.xml",
+        "source": "D:\\AndroidStudioProjects\\YADrone\\app\\src\\main\\res\\layout\\activity_control.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\YADrone\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_gesture.xml",
+        "source": "D:\\AndroidStudioProjects\\YADrone\\app\\src\\main\\res\\layout\\activity_gesture.xml"
+    }
+]

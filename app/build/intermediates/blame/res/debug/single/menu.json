@@ -1,0 +1,30 @@
+[
+    {
+        "merged": "D:\\AndroidStudioProjects\\YADrone\\app\\build\\intermediates\\res\\merged\\debug\\menu\\menu_gravity.xml",
+        "source": "D:\\AndroidStudioProjects\\YADrone\\app\\src\\main\\res\\menu\\menu_gravity.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\YADrone\\app\\build\\intermediates\\res\\merged\\debug\\menu\\menu_navdata.xml",
+        "source": "D:\\AndroidStudioProjects\\YADrone\\app\\src\\main\\res\\menu\\menu_navdata.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\YADrone\\app\\build\\intermediates\\res\\merged\\debug\\menu\\menu_video.xml",
+        "source": "D:\\AndroidStudioProjects\\YADrone\\app\\src\\main\\res\\menu\\menu_video.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\YADrone\\app\\build\\intermediates\\res\\merged\\debug\\menu\\menu_gesture.xml",
+        "source": "D:\\AndroidStudioProjects\\YADrone\\app\\src\\main\\res\\menu\\menu_gesture.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\YADrone\\app\\build\\intermediates\\res\\merged\\debug\\menu\\menu_control.xml",
+        "source": "D:\\AndroidStudioProjects\\YADrone\\app\\src\\main\\res\\menu\\menu_control.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\YADrone\\app\\build\\intermediates\\res\\merged\\debug\\menu\\menu_voice.xml",
+        "source": "D:\\AndroidStudioProjects\\YADrone\\app\\src\\main\\res\\menu\\menu_voice.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\YADrone\\app\\build\\intermediates\\res\\merged\\debug\\menu\\menu_main.xml",
+        "source": "D:\\AndroidStudioProjects\\YADrone\\app\\src\\main\\res\\menu\\menu_main.xml"
+    }
+]

@@ -1,0 +1,6 @@
+﻿#BNF+IAT 1.0 UTF-8;
+!grammar call;
+!slot <instruct>;
+!start <commands>;
+<commands>:<instruct>;
+<instruct>: 起飞|降落|前进|后退|冲|向左|向右|微左|微右|大左|大右|上升|向上冲|下降|左旋|右旋|左转|右转;

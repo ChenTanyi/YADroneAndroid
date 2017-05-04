@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#888"
+    tools:context="de.yadrone.android.GravityActivity">
+
+    <TextView
+        android:id="@+id/g_textView1"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentTop="true"
+        android:layout_marginBottom="0dp"
+        android:gravity="center"
+        android:text="Gravity"
+        android:textColor="#ffffff"
+        android:textSize="30sp" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:text="指令集"
+        android:textColor="#fff"
+        android:textSize="30sp"
+        android:id="@+id/g_textView2"
+        android:layout_marginTop="52dp"
+        android:layout_marginLeft="76dp"
+        android:layout_below="@+id/g_textView1"
+        android:layout_alignParentLeft="true" />
+
+    <EditText
+        android:layout_width="350px"
+        android:layout_height="wrap_content"
+        android:layout_alignTop="@+id/g_textView2"
+        android:layout_toRightOf="@+id/g_textView2"
+        android:id="@+id/g_editText"
+        android:textSize="25sp"
+        android:textAlignment="center"
+        android:layout_alignParentStart="false" />
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="水平指令"
+        android:id="@+id/g_horizontal"
+        android:layout_centerVertical="true"
+        android:layout_alignRight="@+id/g_textView2" />
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="垂直指令与旋转"
+        android:id="@+id/g_vertical"
+        android:layout_alignTop="@+id/g_horizontal"
+        android:layout_alignRight="@+id/g_editText" />
+
+    <Button
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:text="Take Off"
+        android:id="@+id/g_land"
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginBottom="45dp" />
+
+    <Button
+        android:layout_width="350px"
+        android:layout_height="wrap_content"
+        android:text="悬停"
+        android:id="@+id/g_hover"
+        android:layout_above="@+id/g_land"
+        android:layout_centerHorizontal="true"
+        android:layout_marginBottom="41dp" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Action"
+        android:id="@+id/g_action"
+        android:textSize ="30sp"
+        android:textColor="#fff"
+        android:layout_below="@+id/g_textView2"
+        android:layout_marginTop="40dp"
+        android:layout_centerHorizontal="true" />
+
+</RelativeLayout>

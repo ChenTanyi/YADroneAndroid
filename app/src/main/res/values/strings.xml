@@ -1,0 +1,17 @@
+<resources>
+
+    <string name="app_name">MyDrone</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="menu_settings">Settings</string>
+    <string name="title_activity_yadrone">MyDrone</string>
+
+    <string-array name="abnf_engine_entries">
+        <item>本地识别</item>
+        <item>在线识别</item>
+    </string-array>
+    <string-array name="engine_values">
+        <item>local</item>
+        <item>cloud</item>
+    </string-array>
+
+</resources>
